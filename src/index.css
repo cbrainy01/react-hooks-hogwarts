@@ -140,6 +140,20 @@ ul {
   clear: both;
 }
 
+.tile {
+  display: block;
+  border-style: solid;
+  padding-bottom: 2em;
+  margin-bottom: 2em;
+}
+
+.show-extras {
+  display: block;
+}
+
+.hide-extras {
+  display: none;
+}
 
 @keyframes App-logo-spin {
   from {
